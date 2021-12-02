@@ -1,19 +1,22 @@
-# Criando um App de Cartão de Visitas em Kotlin
+# 🟨🟪📇 Criando um App de Cartão de Visitas em Kotlin 📇🟦🟧
 
-Aplicativo de lista de cartão de visita onde é possível manter os dados nome, empresa, telefone de contato, email e cor de fundo do cartão utilizando banco de dados Room. Criado no *bootcamp* do Banco Inter, sob oriebntação do especialista [Igor Rotongo Bagliotti](https://br.linkedin.com/in/igor-rotondo-bagliotti-b1612b69).  
+📇 Aplicativo que lista de cartões de visita onde é possível gravar os dados de nome, empresa, telefone de contato, email e cor de fundo de cada um dos cartões cadastrados, utilizando banco de dados __Room__. 
 
-O projeto usa padrões de projeto e boas práticas de programação Kotlin. Desenvolvimento de App Android nativo para a criação e listagem dos cartões, com os seguintes dados: nome, empresa, telefone de contato, email e cor de fundo. Armazenando os dados localmente, usando Room.
+- Utiliza padrão de projeto __MVVM__
+- Escrito com __boas práticas__ de programação Kotlin
+- App __Android nativo__ para a criação e listagem de cartões de visita 
+- SGBD __Room__
 
 ## Tecnologias utilizadas
-1. Room
-2. MVVM
-3. ViewBinding
-4. LiveData
-5. ListAdapter
-6. Material Design
 
-&nbsp;
+<img src =   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1piKcdeQ4YeENNgCe1w5nXszxbABf0g0N1Q&usqp=CAU" width = "auto" height = "85px" alt = "android studio"> <img src =   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNA81w93gpdo5ROIPkw7na3V5a_jfKZTnwfg&usqp=CAU" width = "auto" height = "85px" alt = "kotlin">
+<img src =   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzaje27yzo4KCz4gkYzCZQL1gu6dziRF2x8Q&usqp=CAU" width = "auto" height = "85px" alt = "material design">
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5OL8BhIXXPwuIXajCvMLAnSoOZXQaVF3DAg&usqp=CAU" width = "auto" height = "85px" alt = "Room database"> 
+<img src =   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQRH1-HzU67YOsJ91zk38xLuanlAVavtfvZg&usqp=CAU" width = "auto" height = "85px" alt = "MVVM"> 
+<img src =   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1unAxglHmCw-KKagO9QXMFDupxafI44vLDw&usqp=CAU" width = "auto" height = "85px" alt = "view binding"> 
+<img src =   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3oMfads8keztnXVi_Ihzfhh2wZDqwTaOuh8OMPpXTMKEhemrBflaTEwJzd8tfZkvyEAA&usqp=CAU" width = "auto" height = "85px" alt = "android live data">
+  
 
->Projeto conluído em 10/2021.
+#### :purple_circle: Conluído em 25/10/2021.
 
 
