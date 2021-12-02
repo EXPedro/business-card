@@ -1,4 +1,4 @@
-# 🟨🟪📇 Criando um App de Cartão de Visitas em Kotlin 📇🟦🟧
+#🟦📇 Criando um App de Cartão de Visitas em Kotlin 📇🟧
 
 📇 Aplicativo que lista de cartões de visita onde é possível gravar os dados de nome, empresa, telefone de contato, email e cor de fundo de cada um dos cartões cadastrados, utilizando banco de dados __Room__. 
 
